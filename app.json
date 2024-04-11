@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Translate",
+    "slug": "Translate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0779b7"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptiveIcon.png",
+        "backgroundColor": "#0779b7"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.ico"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
